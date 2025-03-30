@@ -20,7 +20,7 @@ app.use(express.urlencoded({extended:true}));
 app.use(cookieParser());
 
 const corsOption = {
-    origin:'http://localhost:5173', 
+    origin:'https://job-listing-portal-61em.onrender.com', 
     credentials : true
 }
 
