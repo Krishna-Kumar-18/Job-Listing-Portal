@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="flex flex-wrap justify-between items-center">
           <div className="mb-4 md:mb-0">
             <a href="/" className="text-xl font-bold text-white">
-              JobPortal
+              DreamJob
             </a>
           </div>
 
@@ -28,7 +28,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-6 border-t border-gray-700 pt-4 text-center text-sm">
-          <p>&copy; 2024 JobPortal. All rights reserved.</p>
+          <p>&copy; 2024 DreamJob. All rights reserved.</p>
           <p className="mt-2">
             Designed by{" "}
             <a
