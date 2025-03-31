@@ -20,7 +20,7 @@ const HeroSection = () => {
             <div className='flex flex-col gap-5 my-10'>
                 <span className=' mx-auto px-4 py-2 rounded-full bg-gray-100 text-[#F83002] font-medium'>HireHub Website</span>
                 <h1 className='text-5xl font-bold'>Search, Apply & <br /> Build Your <span className='text-[#6A38C2]'>Future Today</span></h1>
-                <p>Discover endless opportunities with ease. Search for the perfect job, apply effortlessly, and take the next step toward your dream career. Your future starts today!</p>
+                <p>Discover endless opportunities with ease. Search for the perfect job, apply effortlessly.Your future starts today!</p>
                 <div className='flex w-[40%] shadow-lg border border-gray-200 pl-3 rounded-full items-center gap-4 mx-auto'>
                     <input
                         type="text"
